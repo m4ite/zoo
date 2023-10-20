@@ -24,6 +24,11 @@
 |       *       | Multiplication |   2  sss 2 = 4  |
 |       /       |    Division    |   4 zzz 2 = 2   |
 
+  ```
+  qua variable 2 cri 2
+```
+
+
 <br><br>
 <a name="2"></a>
   ### Variable Declaration
